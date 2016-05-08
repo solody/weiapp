@@ -1,0 +1,7 @@
+weiapp.content:
+  path: '/weiapp'
+  defaults:
+    _controller: '\Drupal\weiapp\Controller\WeiappController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'

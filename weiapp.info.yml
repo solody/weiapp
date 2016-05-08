@@ -1,0 +1,6 @@
+name: WeiApp Module
+description: Connect to weixin.
+package: WeiApp
+
+type: module
+core: 8.x

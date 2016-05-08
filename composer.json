@@ -1,0 +1,7 @@
+{
+  "name" : "weiapp/weiapp",
+"description": "Connect to weixin.",
+"type": "drupal-module",
+"license": "GPL-2.0+"
+
+}
